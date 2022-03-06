@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "503605260519",
+    "project_id": "instagram-clone-2ebb0",
+    "storage_bucket": "instagram-clone-2ebb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503605260519:android:4d53aa4c1ee5442f0bf242",
+        "android_client_info": {
+          "package_name": "com.example.task_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503605260519-5u0anuhoi097lr1oj1q9t088i6q9h3an.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgIGclXTfyYoQ2CBedP01zs40YH2QhwiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503605260519-5u0anuhoi097lr1oj1q9t088i6q9h3an.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "503605260519-1il8376mgi4mciqnh0teqh4j8l58n5k1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.taskApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
